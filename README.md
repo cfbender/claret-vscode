@@ -1,4 +1,4 @@
-# Claret
+# <img src="./claret-logo.png" height="40" align="top" alt="logo" /> Claret
 
 A warm, refined dark and light color theme for VS Code.
 

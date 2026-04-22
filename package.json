@@ -4,6 +4,7 @@
   "description": "A warm, refined dark and light color theme",
   "version": "0.1.0",
   "publisher": "cfbender",
+  "icon": "claret-logo.png",
   "engines": {
     "vscode": "^1.70.0"
   },
