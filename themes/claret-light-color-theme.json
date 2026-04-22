@@ -120,7 +120,14 @@
     "minimap.selectionHighlight": "#E8DDD099",
     "minimapGutter.addedBackground": "#5A6B40",
     "minimapGutter.modifiedBackground": "#7D5B38",
-    "minimapGutter.deletedBackground": "#A03025"
+    "minimapGutter.deletedBackground": "#A03025",
+    "editorBracketHighlight.foreground1": "#8B2252",
+    "editorBracketHighlight.foreground2": "#7D5B38",
+    "editorBracketHighlight.foreground3": "#4A5670",
+    "editorBracketHighlight.foreground4": "#5A6B40",
+    "editorBracketHighlight.foreground5": "#5A4D42",
+    "editorBracketHighlight.foreground6": "#7D7068",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#A03025"
   },
   "tokenColors": [
     {
