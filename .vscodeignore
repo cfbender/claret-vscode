@@ -1,6 +1,7 @@
 .git
 .gitignore
+.github/
 docs/
 *.md
-!README.md
-!CHANGELOG.md
+!readme.md
+!changelog.md
