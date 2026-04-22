@@ -1,0 +1,32 @@
+{
+  "name": "claret",
+  "displayName": "Claret",
+  "description": "A warm, refined dark and light color theme",
+  "version": "0.1.0",
+  "publisher": "cfbender",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Claret Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/claret-dark-color-theme.json"
+      },
+      {
+        "label": "Claret Light",
+        "uiTheme": "vs",
+        "path": "./themes/claret-light-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cfbender/claret-vscode"
+  },
+  "license": "MIT"
+}
