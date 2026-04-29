@@ -181,6 +181,11 @@
       "settings": { "foreground": "#0E3088" }
     },
     {
+      "name": "Atoms / Symbols",
+      "scope": "constant.language.symbol",
+      "settings": { "foreground": "#0E3088" }
+    },
+    {
       "name": "Variables",
       "scope": "variable, variable.other.readwrite",
       "settings": { "foreground": "#2A1F1A" }
